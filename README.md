@@ -23,6 +23,6 @@ The system is designed to:
 
 Here is the class diagram that illustrates the structure of the project:
 
-![Class Diagram](UML_diagram.png)
+![Class Diagram](UMLdiagram.png)
 
 This project serves as a foundation for understanding how a streaming service manages data and processes internally using OOP principles.
