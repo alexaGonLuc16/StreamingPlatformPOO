@@ -26,3 +26,11 @@ Here is the class diagram that illustrates the structure of the project:
 ![Class Diagram](UMLdiagram.png)
 
 This project serves as a foundation for understanding how a streaming service manages data and processes internally using OOP principles.
+
+## Project Structure
+
+The repository is organized as follows:
+
+- `/src/`: This folder contains all the source code of the project, including the implementation of the streaming platform simulation using Object-Oriented Programming in C++.
+
+- `StreamingPlatform_Documentation.pdf`: The complete documentation for the project, including an overview, design, and functionality of the platform simulation.
